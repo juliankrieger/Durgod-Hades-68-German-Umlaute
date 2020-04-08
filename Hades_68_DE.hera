@@ -1,0 +1,272 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Parameters p3="0" p1="1" device="DURGOD Hades" p2="0" current="1" name="Hades 68">
+    <lamp size="3">
+        <item value="2" index="0"/>
+        <item value="32" index="1"/>
+        <item value="64" index="2"/>
+        <item value="0" index="3"/>
+        <item value="0" index="4"/>
+    </lamp>
+    <profile name="Profile1" index="1">
+        <key1>
+            <item module="1" value="27" repeat="1" mode="2" index="0"/>
+            <item module="1" value="49" repeat="1" mode="2" index="1"/>
+            <item module="1" value="50" repeat="1" mode="2" index="2"/>
+            <item module="1" value="51" repeat="1" mode="2" index="3"/>
+            <item module="1" value="52" repeat="1" mode="2" index="4"/>
+            <item module="1" value="53" repeat="1" mode="2" index="5"/>
+            <item module="1" value="54" repeat="1" mode="2" index="6"/>
+            <item module="1" value="55" repeat="1" mode="1" index="7"/>
+            <item module="1" value="56" repeat="1" mode="2" index="8"/>
+            <item module="1" value="57" repeat="1" mode="2" index="9"/>
+            <item module="1" value="48" repeat="1" mode="2" index="10"/>
+            <item module="1" value="189" repeat="1" mode="2" index="11"/>
+            <item module="1" value="187" repeat="1" mode="2" index="12"/>
+            <item module="1" value="8" repeat="1" mode="2" index="13"/>
+            <item module="3" value="36" repeat="1" mode="2" index="14"/>
+            <item module="1" value="9" repeat="1" mode="2" index="24"/>
+            <item module="0" value="81" repeat="1" mode="2" index="25"/>
+            <item module="0" value="87" repeat="1" mode="2" index="26"/>
+            <item module="0" value="69" repeat="1" mode="2" index="27"/>
+            <item module="0" value="82" repeat="1" mode="2" index="28"/>
+            <item module="0" value="84" repeat="1" mode="2" index="29"/>
+            <item module="0" value="89" repeat="1" mode="2" index="30"/>
+            <item module="0" value="85" repeat="1" mode="2" index="31"/>
+            <item module="0" value="73" repeat="1" mode="2" index="32"/>
+            <item module="0" value="79" repeat="1" mode="2" index="33"/>
+            <item module="0" value="80" repeat="1" mode="2" index="34"/>
+            <item module="1" value="219" repeat="1" mode="2" index="35"/>
+            <item module="1" value="221" repeat="1" mode="2" index="36"/>
+            <item module="1" value="220" repeat="1" mode="2" index="37"/>
+            <item module="3" value="46" repeat="1" mode="2" index="38"/>
+            <item module="5" value="20" repeat="1" mode="2" index="48"/>
+            <item module="0" value="65" repeat="1" mode="2" index="49"/>
+            <item module="0" value="83" repeat="1" mode="2" index="50"/>
+            <item module="0" value="68" repeat="1" mode="2" index="51"/>
+            <item module="0" value="70" repeat="1" mode="2" index="52"/>
+            <item module="0" value="71" repeat="1" mode="2" index="53"/>
+            <item module="0" value="72" repeat="1" mode="2" index="54"/>
+            <item module="0" value="74" repeat="1" mode="2" index="55"/>
+            <item module="0" value="75" repeat="1" mode="2" index="56"/>
+            <item module="0" value="76" repeat="1" mode="2" index="57"/>
+            <item module="1" value="186" repeat="1" mode="2" index="58"/>
+            <item module="1" value="222" repeat="1" mode="2" index="59"/>
+            <item module="1" value="13" repeat="1" mode="2" index="61"/>
+            <item module="3" value="33" repeat="1" mode="2" index="62"/>
+            <item module="5" value="160" repeat="1" mode="2" index="72"/>
+            <item module="0" value="90" repeat="1" mode="2" index="73"/>
+            <item module="0" value="88" repeat="1" mode="2" index="74"/>
+            <item module="0" value="67" repeat="1" mode="2" index="75"/>
+            <item module="0" value="86" repeat="1" mode="2" index="76"/>
+            <item module="0" value="66" repeat="1" mode="2" index="77"/>
+            <item module="0" value="78" repeat="1" mode="2" index="78"/>
+            <item module="0" value="77" repeat="1" mode="2" index="79"/>
+            <item module="1" value="188" repeat="1" mode="2" index="80"/>
+            <item module="1" value="190" repeat="1" mode="2" index="81"/>
+            <item module="1" value="191" repeat="1" mode="2" index="82"/>
+            <item module="5" value="161" repeat="1" mode="2" index="83"/>
+            <item module="3" value="38" repeat="1" mode="2" index="85"/>
+            <item module="3" value="34" repeat="1" mode="2" index="86"/>
+            <item module="5" value="162" repeat="1" mode="2" index="96"/>
+            <item module="5" value="91" repeat="1" mode="2" index="97"/>
+            <item module="5" value="164" repeat="1" mode="2" index="98"/>
+            <item module="1" value="32" repeat="1" mode="2" index="101"/>
+            <item module="0" value="1" repeat="1" mode="7" index="105"/>
+            <item module="0" value="2" repeat="1" mode="7" index="106"/>
+            <item module="5" value="163" repeat="1" mode="2" index="107"/>
+            <item module="3" value="37" repeat="1" mode="2" index="108"/>
+            <item module="3" value="40" repeat="1" mode="2" index="109"/>
+            <item module="3" value="39" repeat="1" mode="2" index="110"/>
+        </key1>
+        <key2>
+            <item module="1" value="192" repeat="1" mode="2" index="0"/>
+            <item module="2" value="112" repeat="1" mode="2" index="1"/>
+            <item module="2" value="113" repeat="1" mode="2" index="2"/>
+            <item module="2" value="114" repeat="1" mode="2" index="3"/>
+            <item module="2" value="115" repeat="1" mode="2" index="4"/>
+            <item module="2" value="116" repeat="1" mode="2" index="5"/>
+            <item module="2" value="117" repeat="1" mode="2" index="6"/>
+            <item module="2" value="118" repeat="1" mode="2" index="7"/>
+            <item module="2" value="119" repeat="1" mode="2" index="8"/>
+            <item module="2" value="120" repeat="1" mode="2" index="9"/>
+            <item module="2" value="121" repeat="1" mode="2" index="10"/>
+            <item module="2" value="122" repeat="1" mode="2" index="11"/>
+            <item module="2" value="123" repeat="1" mode="2" index="12"/>
+            <item module="3" value="38" repeat="1" mode="2" index="26"/>
+            <item module="0" value="162,164,89" repeat="1" mode="2" index="35"/>
+            <item module="3" value="37" repeat="1" mode="2" index="49"/>
+            <item module="3" value="40" repeat="1" mode="2" index="50"/>
+            <item module="3" value="39" repeat="1" mode="2" index="51"/>
+            <item module="0" value="162,164,80" repeat="1" mode="2" index="58"/>
+            <item module="0" value="162,164,81" repeat="1" mode="2" index="59"/>
+            <item module="5" value="161" repeat="1" mode="2" index="83"/>
+            <item module="7" value="1,0,0,0" repeat="1" mode="9" index="97"/>
+            <item module="0" value="1" repeat="1" mode="7" index="105"/>
+            <item module="0" value="2" repeat="1" mode="7" index="106"/>
+            <item module="3" value="93" repeat="1" mode="2" index="108"/>
+        </key2>
+        <key3>
+            <item module="3" value="205" repeat="1" mode="4" index="1"/>
+            <item module="3" value="183" repeat="1" mode="4" index="2"/>
+            <item module="3" value="182" repeat="1" mode="4" index="3"/>
+            <item module="3" value="181" repeat="1" mode="4" index="4"/>
+            <item module="3" value="233" repeat="1" mode="4" index="5"/>
+            <item module="3" value="234" repeat="1" mode="4" index="6"/>
+            <item module="3" value="226" repeat="1" mode="4" index="7"/>
+            <item module="32" value="7" repeat="1" mode="8" index="11"/>
+            <item module="32" value="2" repeat="1" mode="8" index="12"/>
+            <item module="0" value="0" repeat="1" mode="6" index="14"/>
+            <item module="0" value="162,164,89" repeat="1" mode="2" index="35"/>
+            <item module="0" value="1" repeat="1" mode="6" index="38"/>
+            <item module="0" value="162,164,80" repeat="1" mode="2" index="58"/>
+            <item module="0" value="164,162,81" repeat="1" mode="2" index="59"/>
+            <item module="0" value="2" repeat="1" mode="6" index="62"/>
+            <item module="32" value="3" repeat="1" mode="8" index="85"/>
+            <item module="0" value="1" repeat="1" mode="7" index="105"/>
+            <item module="0" value="2" repeat="1" mode="7" index="106"/>
+            <item module="32" value="6" repeat="1" mode="8" index="108"/>
+            <item module="32" value="4" repeat="1" mode="8" index="109"/>
+            <item module="32" value="5" repeat="1" mode="8" index="110"/>
+        </key3>
+        <key4>
+            <item module="0" value="228" repeat="1" mode="2" index="35"/>
+            <item module="0" value="1" repeat="1" mode="7" index="105"/>
+            <item module="0" value="2" repeat="1" mode="7" index="106"/>
+        </key4>
+        <light>
+            <item width="0" rgb1="0,0,255" state="1" mode="5" center="344,158" index="0" direction="0" rgb2="0,255,0">
+                <ribbon point="0,0" rgb="0,0,255"/>
+                <ribbon point="256,0" rgb="0,0,0"/>
+            </item>
+            <item width="0" rgb1="255,0,0" state="1" mode="0" center="354,121" index="1" direction="1" rgb2="0,255,0">
+                <ribbon point="0,0" rgb="255,0,0"/>
+                <ribbon point="100,0" rgb="0,0,0"/>
+                <ribbon point="155,0" rgb="0,0,0"/>
+            </item>
+            <item width="4" rgb1="0,0,0" state="1" mode="6" center="0,0" index="2" direction="0" rgb2="0,0,255">
+                <ribbon point="0,0" rgb="255,0,0"/>
+                <ribbon point="256,0" rgb="0,0,0"/>
+            </item>
+            <item width="0" rgb1="255,0,0" state="1" mode="7" center="0,0" index="3" direction="0" rgb2="0,255,0">
+                <ribbon point="0,0" rgb="0,0,255"/>
+                <ribbon point="256,0" rgb="0,0,0"/>
+            </item>
+            <item width="0" rgb1="255,0,0" state="1" mode="10" center="0,0" index="4" direction="0" rgb2="0,255,0">
+                <ribbon point="0,0" rgb="255,0,0"/>
+                <ribbon point="43,0" rgb="255,255,0"/>
+                <ribbon point="86,0" rgb="0,255,0"/>
+                <ribbon point="129,0" rgb="0,255,255"/>
+                <ribbon point="172,0" rgb="0,0,255"/>
+                <ribbon point="215,0" rgb="255,0,255"/>
+                <key keyIndex="0" rgb="254,255,254"/>
+                <key keyIndex="1" rgb="254,255,254"/>
+                <key keyIndex="2" rgb="254,255,254"/>
+                <key keyIndex="3" rgb="254,255,254"/>
+                <key keyIndex="4" rgb="254,255,254"/>
+                <key keyIndex="5" rgb="254,255,254"/>
+                <key keyIndex="6" rgb="254,255,254"/>
+                <key keyIndex="7" rgb="254,255,254"/>
+                <key keyIndex="8" rgb="254,255,254"/>
+                <key keyIndex="9" rgb="254,255,254"/>
+                <key keyIndex="10" rgb="254,255,254"/>
+                <key keyIndex="11" rgb="254,255,254"/>
+                <key keyIndex="12" rgb="254,255,254"/>
+                <key keyIndex="13" rgb="254,255,254"/>
+                <key keyIndex="14" rgb="254,255,254"/>
+                <key keyIndex="24" rgb="254,255,254"/>
+                <key keyIndex="25" rgb="254,255,254"/>
+                <key keyIndex="26" rgb="254,255,254"/>
+                <key keyIndex="27" rgb="254,255,254"/>
+                <key keyIndex="28" rgb="254,255,254"/>
+                <key keyIndex="29" rgb="254,255,254"/>
+                <key keyIndex="30" rgb="254,255,254"/>
+                <key keyIndex="31" rgb="254,255,254"/>
+                <key keyIndex="32" rgb="254,255,254"/>
+                <key keyIndex="33" rgb="254,255,254"/>
+                <key keyIndex="34" rgb="254,255,254"/>
+                <key keyIndex="35" rgb="254,255,254"/>
+                <key keyIndex="36" rgb="254,255,254"/>
+                <key keyIndex="37" rgb="254,255,254"/>
+                <key keyIndex="38" rgb="254,255,254"/>
+                <key keyIndex="48" rgb="254,255,254"/>
+                <key keyIndex="49" rgb="254,255,254"/>
+                <key keyIndex="50" rgb="254,255,254"/>
+                <key keyIndex="51" rgb="254,255,254"/>
+                <key keyIndex="52" rgb="254,255,254"/>
+                <key keyIndex="53" rgb="254,255,254"/>
+                <key keyIndex="54" rgb="254,255,254"/>
+                <key keyIndex="55" rgb="254,255,254"/>
+                <key keyIndex="56" rgb="254,255,254"/>
+                <key keyIndex="57" rgb="254,255,254"/>
+                <key keyIndex="58" rgb="254,255,254"/>
+                <key keyIndex="59" rgb="254,255,254"/>
+                <key keyIndex="61" rgb="254,255,254"/>
+                <key keyIndex="62" rgb="254,255,254"/>
+                <key keyIndex="72" rgb="254,255,254"/>
+                <key keyIndex="73" rgb="254,255,254"/>
+                <key keyIndex="74" rgb="254,255,254"/>
+                <key keyIndex="75" rgb="254,255,254"/>
+                <key keyIndex="76" rgb="254,255,254"/>
+                <key keyIndex="77" rgb="254,255,254"/>
+                <key keyIndex="78" rgb="254,255,254"/>
+                <key keyIndex="79" rgb="254,255,254"/>
+                <key keyIndex="80" rgb="254,255,254"/>
+                <key keyIndex="81" rgb="254,255,254"/>
+                <key keyIndex="82" rgb="254,255,254"/>
+                <key keyIndex="83" rgb="254,255,254"/>
+                <key keyIndex="85" rgb="254,255,254"/>
+                <key keyIndex="86" rgb="254,255,254"/>
+                <key keyIndex="96" rgb="254,255,254"/>
+                <key keyIndex="97" rgb="254,255,254"/>
+                <key keyIndex="98" rgb="254,255,254"/>
+                <key keyIndex="101" rgb="254,255,254"/>
+                <key keyIndex="105" rgb="254,255,254"/>
+                <key keyIndex="106" rgb="254,255,254"/>
+                <key keyIndex="107" rgb="254,255,254"/>
+                <key keyIndex="108" rgb="254,255,254"/>
+                <key keyIndex="109" rgb="254,255,254"/>
+                <key keyIndex="110" rgb="254,255,254"/>
+            </item>
+            <item width="0" rgb1="255,0,0" state="1" mode="0" center="0,0" index="5" direction="0" rgb2="0,255,0">
+                <ribbon point="0,0" rgb="255,0,0"/>
+                <ribbon point="43,0" rgb="255,255,0"/>
+                <ribbon point="86,0" rgb="0,255,0"/>
+                <ribbon point="129,0" rgb="0,255,255"/>
+                <ribbon point="172,0" rgb="0,0,255"/>
+                <ribbon point="215,0" rgb="255,0,255"/>
+            </item>
+            <item width="0" rgb1="255,0,0" state="1" mode="0" center="0,0" index="6" direction="0" rgb2="0,255,0">
+                <ribbon point="0,0" rgb="255,0,0"/>
+                <ribbon point="43,0" rgb="255,255,0"/>
+                <ribbon point="86,0" rgb="0,255,0"/>
+                <ribbon point="129,0" rgb="0,255,255"/>
+                <ribbon point="172,0" rgb="0,0,255"/>
+                <ribbon point="215,0" rgb="255,0,255"/>
+            </item>
+            <item width="0" rgb1="255,0,0" state="1" mode="0" center="0,0" index="7" direction="0" rgb2="0,255,0">
+                <ribbon point="0,0" rgb="255,0,0"/>
+                <ribbon point="43,0" rgb="255,255,0"/>
+                <ribbon point="86,0" rgb="0,255,0"/>
+                <ribbon point="129,0" rgb="0,255,255"/>
+                <ribbon point="172,0" rgb="0,0,255"/>
+                <ribbon point="215,0" rgb="255,0,255"/>
+            </item>
+            <item width="0" rgb1="255,0,0" state="1" mode="0" center="0,0" index="8" direction="0" rgb2="0,255,0">
+                <ribbon point="0,0" rgb="255,0,0"/>
+                <ribbon point="43,0" rgb="255,255,0"/>
+                <ribbon point="86,0" rgb="0,255,0"/>
+                <ribbon point="129,0" rgb="0,255,255"/>
+                <ribbon point="172,0" rgb="0,0,255"/>
+                <ribbon point="215,0" rgb="255,0,255"/>
+            </item>
+            <item width="0" rgb1="255,0,0" state="1" mode="0" center="0,0" index="9" direction="0" rgb2="0,255,0">
+                <ribbon point="0,0" rgb="255,0,0"/>
+                <ribbon point="43,0" rgb="255,255,0"/>
+                <ribbon point="86,0" rgb="0,255,0"/>
+                <ribbon point="129,0" rgb="0,255,255"/>
+                <ribbon point="172,0" rgb="0,0,255"/>
+                <ribbon point="215,0" rgb="255,0,255"/>
+            </item>
+        </light>
+    </profile>
+</Parameters>
